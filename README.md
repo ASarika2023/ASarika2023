@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarika Jothi Alwarappan
 - 👀 I’m interested in Vlsi design, especially RTL design
-- 🌱 I’m currently learning RTL design and system verilog for verification
+- 🌱 I’m currently learning RTL design and System Verilog for verification
 - 💞️ I’m looking to collaborate on VLSI design projects
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
