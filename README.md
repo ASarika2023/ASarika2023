@@ -2,7 +2,7 @@
 - 👀 I’m interested in Vlsi design, especially RTL design
 - 🌱 I’m currently learning RTL design and System Verilog for verification
 - 💞️ I’m looking to collaborate on VLSI design projects
-- 📫 How to reach me ...
+- 📫 How to reach me sarikaalwarappan@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am someone who has a different favorite color everyday
 
